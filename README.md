@@ -25,6 +25,10 @@ No buttons, no mouse — just pure  -computer vision- and some Python magic.
 | MediaPipe     | Hand landmarks & gesture logic  |
 
 ---
+## 🖼️ Preview
+
+![Rock Paper Scissors Game Preview](image.png)
+
 
 ##  Setup Instructions
 
@@ -32,3 +36,6 @@ No buttons, no mouse — just pure  -computer vision- and some Python magic.
 ```bash
 git clone https://github.com/your-username/hand-gesture-rps.git
 cd hand-gesture-rps
+
+
+
