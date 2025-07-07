@@ -1,2 +1,34 @@
-# HandGesture-Rock-Paper-Scissor
-A fun retro-style Rock-Paper-Scissors game powered by real-time hand gesture detection using your webcam! Built using OpenCV, CVZone, and MediaPipe, this project lets you play the classic game using only your hand movements — no buttons, no clicks, just ✊ ✋ ✌️ and vibes 😄
+# ✊✋✌️ Hand Gesture Rock Paper Scissors 🎮
+
+This is a fun, retro-style **Rock-Paper-Scissors game** that you can play using just your hand gestures and your webcam!  
+No buttons, no mouse — just pure ✨ computer vision ✨ and some Python magic.
+
+---
+
+## 🧠 What It Does
+
+- Uses **real-time webcam feed** to track your hand
+- Detects your gesture using **Google MediaPipe** via **CVZone**
+- Matches it against a randomly generated AI move
+- Displays visuals, countdown timer, and score
+- Gives you that *nostalgic gaming experience* — with a tech twist!
+
+---
+
+## 🎯 Tech Stack
+
+| Tool            | Purpose                         |
+|-----------------|---------------------------------|
+| Python 🐍       | Core programming language       |
+| OpenCV 🎥       | Webcam feed & image handling    |
+| CVZone 🔍       | Simplified hand detection       |
+| MediaPipe 🤖    | Hand landmarks & gesture logic  |
+
+---
+
+## 🖥️ Setup Instructions
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/hand-gesture-rps.git
+cd hand-gesture-rps
